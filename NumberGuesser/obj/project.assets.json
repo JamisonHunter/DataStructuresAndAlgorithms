@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jamison\\Documents\\GitHub\\DataStructuresAndAlgorithms\\FizzBuzz\\FizzBuzz.csproj",
-      "projectName": "FizzBuzz",
-      "projectPath": "C:\\Users\\Jamison\\Documents\\GitHub\\DataStructuresAndAlgorithms\\FizzBuzz\\FizzBuzz.csproj",
+      "projectUniqueName": "C:\\Users\\Jamison\\Documents\\GitHub\\DataStructuresAndAlgorithms\\NumberGuesser\\NumberGuesser.csproj",
+      "projectName": "NumberGuesser",
+      "projectPath": "C:\\Users\\Jamison\\Documents\\GitHub\\DataStructuresAndAlgorithms\\NumberGuesser\\NumberGuesser.csproj",
       "packagesPath": "C:\\Users\\Jamison\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jamison\\Documents\\GitHub\\DataStructuresAndAlgorithms\\FizzBuzz\\obj\\",
+      "outputPath": "C:\\Users\\Jamison\\Documents\\GitHub\\DataStructuresAndAlgorithms\\NumberGuesser\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Jamison\\AppData\\Roaming\\NuGet\\NuGet.Config",
